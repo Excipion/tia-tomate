@@ -1,0 +1,38 @@
+.contenido {
+
+    &__articulo--oscuro {
+        padding: 3rem 0;
+        background-color: $taupe-gray;
+        color: $white;
+    }
+
+    &__titulo {
+        padding: 2rem 0;
+    }
+
+    &__texto {
+        padding: 0 25rem;
+    }
+
+    &__articulo--claro {
+        padding: 3rem 0;
+        color: $taupe-gray;
+    }
+
+    &__nosotros {
+        padding: 4.5rem 0;
+        color: $white;
+        background-color: $jelly-bean;
+    }
+
+    &__foto--small {
+        padding: 1.5rem 0;
+        width: 20%;
+    }
+}
+
+.contenido__foto--medium {
+    padding: 1.5rem 0;
+    width: 70%;
+}
+

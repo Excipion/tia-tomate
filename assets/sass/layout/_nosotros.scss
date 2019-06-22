@@ -1,0 +1,16 @@
+.nosotros {
+    padding: 4.5rem 0;
+    color: $white;
+    background-color: $jelly-bean;
+        
+    &__titulo {
+        color: $white;
+        margin: 0;
+        text-transform: none;
+    }
+
+    .button--big {
+        text-transform: uppercase;
+        color: $granite-gray;
+    }
+}

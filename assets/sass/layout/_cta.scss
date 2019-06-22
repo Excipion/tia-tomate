@@ -1,0 +1,18 @@
+
+.cta__titulo {
+     text-transform: unset;
+}
+
+.big__button {
+    margin: 2rem 0;
+    padding: 0.5rem 6rem;
+    border-radius: 4rem;
+    border-color: solid 2px $granite-gray;
+    background-color: $white;
+
+    h4 {
+        color: $granite-gray;
+        margin: 0;
+        text-transform: uppercase;
+    }
+}
